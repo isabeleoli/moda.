@@ -6,33 +6,33 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Moda é a expressão de uma cultura e reflete os movimentos de mudança pelos quais a sociedade está passando.",
+        enunciado: "Moda é a expresão de uma cultura e reflete os movimentos de mudança pelos quais a sociedade está passando.",
         alternativas: [
             {
-                texto: "“Nada é permanente, exceto a mudança!",
+                texto: "Nada é permanente, exceto a mudança!",
                 afirmacao: "A moda, como um fenômeno social, possui diferentes limiares de abordagem, e uma delas pode se relacionar a um processo de metamorfose efêmera que ocorre nas mais diferentes esferas que compõem o constructo cultural dos indivíduos.. "
             },
             {
                 texto: "Isto é extraordinário!",
-                afirmacao: "a moda em si faz parte do noso cotidiano."
-            }
-        ]
-    },
-
-        enunciado:  "A variação da característica das vestimentas surgiu para diferenciar o que antes era igual, usava-se um estilo de roupa desde a infância até a morte. .     ?",
-        alternativas: [
-            {
-                texto: " A moda é uma linguagem que permite que as pessoas comuniquem quem são, como se sentem e o que representam, sem a necessidade de palavras..",
-                afirmacao: "A moda é muitas vezes vista como um setor frívolo, vão e efêmero."
-            },
-            {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                afirmacao: "a moda em si faz parte de todo nosso cotidiano."
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "A variação da característica das vestimentas surgiu para diferenciar o que antes era igual, usava-se um estilo de roupa desde a infância até a morte.'',
+        alternativas: [
+            {
+                texto: " A moda é uma linguagem que permite que as pessoas comuniquem quem são, como se sentem e o que representam, sem a necessidade de palavras..",
+                afirmacao: "A moda é muitas vezes vista como um setor frívolo, vã e efêmero."
+            },
+            {
+                texto: "Casual, elegante, clássico, romântico, sexy, dramático e criativo são os sete estilos universais.",
+                afirmacao: "A moda nos permite compor nosso look, da maneira que nos convém, de acordo com nossa personalidade e nosso estilo de ser."
+            }
+        ]
+    },
+    {
+        enunciado: " ",
         alternativas: [
             {
                 texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
